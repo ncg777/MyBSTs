@@ -3,15 +3,15 @@
 % 
 // SEQUENCER
 INTRO : S1,
-//VERSE :: S1,
-//PRECHORUS :: S2,
-//CHORUS :: S3,
-//VERSE :: S1,
-//PRECHORUS :: S2,
-//CHORUS :: S3,
-//BRIDGE :: S4,
-//VERSE :: S1,
-//CHORUS :: S3,
+//VERSE : S1,
+//PRECHORUS : S2,
+//CHORUS : S3,
+//VERSE : S1,
+//PRECHORUS : S2,
+//CHORUS : S3,
+//BRIDGE : S4,
+//VERSE : S1,
+//CHORUS : S3,
 //OUTRO :: S1
 
 %
