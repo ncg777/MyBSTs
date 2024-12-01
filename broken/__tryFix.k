@@ -1,4 +1,4 @@
-function tryRestore()
+function tryFix()
 {
 	#renderBST("MyBSTs/broken/2011-02-13") ???
 	#renderBST("MyBSTs/broken/2011-02-17") x-?
