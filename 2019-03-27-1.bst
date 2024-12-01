@@ -2,11 +2,11 @@
 
 % 
 // SEQUENCER
-A : S1
+A : ALL
 
 %
 // CHORDS
-S1, 7-35.11, 0, 128;
+ALL, 12-1.01, 0, 128;
 
 %
 // PARTS
