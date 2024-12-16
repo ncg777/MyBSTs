@@ -45,10 +45,10 @@ set, 85;
 
 >> _INTROB 128;
 
-@xm 2 14+1+1+1 96 : arp 2 2 , bingate "FF 3F 0F F3 FF CF 0F F3 FF 3F 0F F3 FF CF 0F F3", legato2;
+@xm 2 14+1+1+1 96 :: arp 2 2 , bingate "FF 3F 0F F3 FF CF 0F F3 FF 3F 0F F3 FF CF 0F F3", legato2;
 128,  80 80 80 80, l, -2 1 -1 2;
  
-@xm 3 16+1+1+1 64 : arp 2 2 , bingate "77 DA 77 DA 77 FA 77 DE 77 DA 77 DA 77 FA 77 DE";
+@xm 3 16+1+1+1 64 :: arp 2 2 , bingate "77 DA 77 DA 77 FA 77 DE 77 DA 77 DA 77 FA 77 DE";
 128,  80 00 80 00 80 00 80 00, l, -2 1 -1 2;
 
 >> _INTROAP 128;
@@ -56,7 +56,7 @@ set, 85;
 @t;
 set, 85;
 
-@xm 3 22+1+1+1 96 : arp 2 2 , bingate "88 25 88 25 88 05 88 21 88 25 88 25 88 05 88 21" , echo2 3 72 0.75;
+@xm 3 22+1+1+1 96 :: arp 2 2 , bingate "88 25 88 25 88 05 88 21 88 25 88 25 88 05 88 21" , echo2 3 72 0.75;
 128,  80 00 80 00 80 00 80 00, l, -2 1 -1 2;
 
 @xr 10 112 44;
@@ -67,18 +67,18 @@ set, 85;
 
 >> _INTROBP 128;
 
-@xm 2 14+1+1+1 96 : arp 2 2 , bingate "FF 3F 0F F3 FF CF 0F F3 FF 3F 0F F3 FF CF 0F F3", legato2;
+@xm 2 14+1+1+1 96 :: arp 2 2 , bingate "FF 3F 0F F3 FF CF 0F F3 FF 3F 0F F3 FF CF 0F F3", legato2;
 128,  80 80 80 80, l, -2 1 -1 2;
  
-@xm 3 16+1+1+1 64 : arp 2 2 , bingate "77 DA 77 DA 77 FA 77 DE 77 DA 77 DA 77 FA 77 DE";
+@xm 3 16+1+1+1 64 :: arp 2 2 , bingate "77 DA 77 DA 77 FA 77 DE 77 DA 77 DA 77 FA 77 DE";
 128,  80 00 80 00 80 00 80 00, l, -2 1 -1 2;
 
 >> _VERSEA 128;
 
-@xm 1 18+2+2 96 : bingate "80 46 81 06 80 46 81 06 80 46 81 06 80 46 81 06", strum 12 0 , echo2 3 72 0.75;
+@xm 1 18+2+2 96 :: bingate "80 46 81 06 80 46 81 06 80 46 81 06 80 46 81 06", strum 12 0 , echo2 3 72 0.75;
 128, A4 08 64 08 A4 08 A0 09 A4 08 64 08 A4 08 A0 09, l, 0;
 
-@xm 3 22+1+1+1 96 : arp 2 2 , bingate "88 25 88 25 88 05 88 21 88 25 88 25 88 05 88 21" , echo2 3 72 0.75;
+@xm 3 22+1+1+1 96 :: arp 2 2 , bingate "88 25 88 25 88 05 88 21 88 25 88 25 88 05 88 21" , echo2 3 72 0.75;
 128,  80 00 80 00 80 00 80 00, l, 1 -1;
 
 @xr 10 112 44;
@@ -98,21 +98,21 @@ set, 85;
 
 >> _VERSEB 128;
 
-@xm 1 17+2+2 96 : bingate "7F B9 7E F9 7F B9 7E F9 7F B9 7E F9 7F B9 7E F9";
+@xm 1 17+2+2 96 :: bingate "7F B9 7E F9 7F B9 7E F9 7F B9 7E F9 7F B9 7E F9";
 128, A4 08 64 08 A4 08 A0 09 A4 08 64 08 A4 08 A0 09, l, 2 0 -1 -1 1 1 2 -3 3 0 -1 -1 -1 -1 2 -1 5 0 -1 -1 -1 -1 -2 2 3 0 -1 -1 -1 -1 0 -1;
 
-@xm 2 15+1+1+1 96 : arp 2 2 , bingate "FF 3F 0F F3 FF CF 0F F3 FF 3F 0F F3 FF CF 0F F3", legato2;
+@xm 2 15+1+1+1 96 :: arp 2 2 , bingate "FF 3F 0F F3 FF CF 0F F3 FF 3F 0F F3 FF CF 0F F3", legato2;
 128,  80 80 80 80, l, 2 -2;
  
-@xm 3 16+1+1+1 64 : arp 2 2 , bingate "77 DA 77 DA 77 FA 77 DE 77 DA 77 DA 77 FA 77 DE";
+@xm 3 16+1+1+1 64 :: arp 2 2 , bingate "77 DA 77 DA 77 FA 77 DE 77 DA 77 DA 77 FA 77 DE";
 128,  80 00 80 00 80 00 80 00, l, 2 -2;
 
 >> _PRECHORUSA 128;
 
-@xm 1 14+2+2 96 : bingate "7F B9 7E F9 7F B9 7E F9 7F B9 7E F9 7F B9 7E F9";
+@xm 1 14+2+2 96 :: bingate "7F B9 7E F9 7F B9 7E F9 7F B9 7E F9 7F B9 7E F9";
 128, A4 08 64 08 A4 08 A0 09 A4 08 64 08 A4 08 A0 09, l, 2 0 -1 -1 1 1 2 -3 3 0 -1 -1 -1 -1 2 -1 5 0 -1 -1 -1 -1 -2 2 3 0 -1 -1 -1 -1 0 -1;
 
-@xm 2 15+1+1+1 96 : arp 2 2 , bingate "FF 3F 0F F3 FF CF 0F F3 FF 3F 0F F3 FF CF 0F F3", legato2;
+@xm 2 15+1+1+1 96 :: arp 2 2 , bingate "FF 3F 0F F3 FF CF 0F F3 FF 3F 0F F3 FF CF 0F F3", legato2;
 128,  80 80 80 80, l, 2 -2;
 
 @xr 10 112 44;
@@ -126,15 +126,15 @@ set, 85;
 
 >> _PRECHORUSB 128;
 
-@xm 1 18+2+2 96 : bingate "80 46 81 06 80 46 81 06 80 46 81 06 80 46 81 06", strum 12 0 , echo2 3 72 0.75;
+@xm 1 18+2+2 96 :: bingate "80 46 81 06 80 46 81 06 80 46 81 06 80 46 81 06", strum 12 0 , echo2 3 72 0.75;
 128, A4 08 64 08 A4 08 A0 09 A4 08 64 08 A4 08 A0 09, l, 0;
 
 >> _CHORUSA 128;
 
-@xm 1 20+2+3 96 : bingate "80 46 81 06 80 46 81 06 80 46 81 06 80 46 81 06", strum 12 0 , echo2 3 72 0.75;
+@xm 1 20+2+3 96 :: bingate "80 46 81 06 80 46 81 06 80 46 81 06 80 46 81 06", strum 12 0 , echo2 3 72 0.75;
 128, A4 08 64 08 A4 08 A0 09 A4 08 64 08 A4 08 A0 09, l, 0;
 
-@xm 2 15+1+1+1 96 : arp 2 2 , bingate "FF 3F 0F F3 FF CF 0F F3 FF 3F 0F F3 FF CF 0F F3", legato2;
+@xm 2 15+1+1+1 96 :: arp 2 2 , bingate "FF 3F 0F F3 FF CF 0F F3 FF 3F 0F F3 FF CF 0F F3", legato2;
 128,  80 80 80 80, l, 2 -2;
 
 @xr 10 112 44;
@@ -154,12 +154,12 @@ set, 85;
 
 >> _CHORUSB 128;
 
-@xm 3 22+1+1+1 96 : arp 2 2 , bingate "88 25 88 25 88 05 88 21 88 25 88 25 88 05 88 21" , echo2 3 72 0.75;
+@xm 3 22+1+1+1 96 :: arp 2 2 , bingate "88 25 88 25 88 05 88 21 88 25 88 25 88 05 88 21" , echo2 3 72 0.75;
 128,  80 00 80 00 80 00 80 00, l, 1 -1;
 
 
 >> _BRIDGEA 128;
-@xm 1 18+2+2 96 : bingate "80 46 81 06 80 46 81 06 80 46 81 06 80 46 81 06", strum 12 0 , echo2 3 72 0.75;
+@xm 1 18+2+2 96 :: bingate "80 46 81 06 80 46 81 06 80 46 81 06 80 46 81 06", strum 12 0 , echo2 3 72 0.75;
 128, A4 08 64 08 A4 08 A0 09 A4 08 64 08 A4 08 A0 09, l, 0;
 
 @xr 10 112 44;
@@ -170,23 +170,23 @@ set, 85;
 
 >> _BRIDGEB 128;
 
-@xm 2 15+1+1+1 96 : arp 2 2 , bingate "FF 3F 0F F3 FF CF 0F F3 FF 3F 0F F3 FF CF 0F F3", echo2 3 72 0.75;
+@xm 2 15+1+1+1 96 :: arp 2 2 , bingate "FF 3F 0F F3 FF CF 0F F3 FF 3F 0F F3 FF CF 0F F3", echo2 3 72 0.75;
 128,  80 80 80 80, l, 2 -2;
 
 >> _OUTROA 128;
 
-@xm 1 18+2+2 96 : bingate "80 46 81 06 80 46 81 06 80 46 81 06 80 46 81 06", strum 12 0;
+@xm 1 18+2+2 96 :: bingate "80 46 81 06 80 46 81 06 80 46 81 06 80 46 81 06", strum 12 0;
 128, A4 08 64 08 A4 08 A0 09 A4 08 64 08 A4 08 A0 09, l, 1 -1 -1 -1 3 1 -2 0 -1 -1 -1 -1 3 1 -2 1 -1 -1 -1 -1 3 2 -2 1 1 -1 -1 -1 3 2 -2 1;
 
-@xm 3 22+1+1+1 96 : arp 2 2 , bingate "88 25 88 25 88 05 88 21 88 25 88 25 88 05 88 21" , echo2 3 72 0.75;
+@xm 3 22+1+1+1 96 :: arp 2 2 , bingate "88 25 88 25 88 05 88 21 88 25 88 25 88 05 88 21" , echo2 3 72 0.75;
 128,  80 00 80 00 80 00 80 00, l, -2 1 -1 2;
 
 >> _OUTROB 128;
 
-@xm 2 14+1+1+1 96 : arp 2 2 , bingate "FF 3F 0F F3 FF CF 0F F3 FF 3F 0F F3 FF CF 0F F3", legato2;
+@xm 2 14+1+1+1 96 :: arp 2 2 , bingate "FF 3F 0F F3 FF CF 0F F3 FF 3F 0F F3 FF CF 0F F3", legato2;
 128,  80 80 80 80, l, -2 1 -1 2;
  
-@xm 3 16+1+1+1 64 : arp 2 2 , bingate "77 DA 77 DA 77 FA 77 DE 77 DA 77 DA 77 FA 77 DE";
+@xm 3 16+1+1+1 64 :: arp 2 2 , bingate "77 DA 77 DA 77 FA 77 DE 77 DA 77 DA 77 FA 77 DE";
 128,  80 00 80 00 80 00 80 00, l, -2 1 -1 2;
 
 
