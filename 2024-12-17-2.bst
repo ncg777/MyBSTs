@@ -1,12 +1,252 @@
 % 
 // SEQUENCER
-TEMPO : ALL || A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1--A:S1||B:S1||D:S1||E:S1||F:S1--
+TEMPO : ALL || A:S1--B:S1--C:S1--D:S1--E:S1--F:S1--
+A:S1--A:S1||B:S1--A:S1--A:S1||C:S1--A:S1--A:S1||D:S1--A:S1--A:S1||E:S1--A:S1--A:S1||F:S1--
+A:S1--B:S1--B:S1||C:S1--B:S1--B:S1||D:S1--B:S1--B:S1||E:S1--B:S1--B:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1--A:S1||B:S1--A:S1||B:S1||E:S1--A:S1||B:S1--A:S1||B:S1||F:S1--
+A:S1--B:S1--C:S1--C:S1||D:S1--C:S1--C:S1||E:S1--C:S1--C:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1--A:S1||C:S1--A:S1||C:S1||D:S1--A:S1||C:S1--A:S1||C:S1||E:S1--A:S1||C:S1--A:S1||C:S1||F:S1--
+A:S1--B:S1--B:S1||C:S1--B:S1||C:S1||D:S1--B:S1||C:S1--B:S1||C:S1||E:S1--B:S1||C:S1--B:S1||C:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||E:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||F:S1--
+A:S1--B:S1--C:S1--D:S1--D:S1||E:S1--D:S1--D:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1--A:S1||C:S1--A:S1--A:S1||D:S1--A:S1||D:S1||E:S1--A:S1||D:S1--A:S1||D:S1||F:S1--
+A:S1--B:S1--B:S1||C:S1--B:S1--B:S1||D:S1--B:S1||D:S1||E:S1--B:S1||D:S1--B:S1||D:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1--A:S1||B:S1||D:S1||E:S1--A:S1||B:S1||D:S1--A:S1||B:S1||D:S1||F:S1--
+A:S1--B:S1--C:S1--C:S1||D:S1--C:S1||D:S1||E:S1--C:S1||D:S1--C:S1||D:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1--A:S1||C:S1--A:S1||C:S1||D:S1--A:S1||C:S1||D:S1||E:S1--A:S1||C:S1||D:S1--A:S1||C:S1||D:S1||F:S1--
+A:S1--B:S1--B:S1||C:S1--B:S1||C:S1||D:S1--B:S1||C:S1||D:S1||E:S1--B:S1||C:S1||D:S1--B:S1||C:S1||D:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||E:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||F:S1--
+A:S1--B:S1--C:S1--D:S1--E:S1--E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1--A:S1||C:S1--A:S1--A:S1||D:S1--A:S1--A:S1||E:S1--A:S1||E:S1||F:S1--
+A:S1--B:S1--B:S1||C:S1--B:S1--B:S1||D:S1--B:S1--B:S1||E:S1--B:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1--A:S1||B:S1--A:S1||B:S1||E:S1--A:S1||B:S1||E:S1||F:S1--
+A:S1--B:S1--C:S1--C:S1||D:S1--C:S1--C:S1||E:S1--C:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1--A:S1||C:S1--A:S1||C:S1||D:S1--A:S1||C:S1--A:S1||C:S1||E:S1--A:S1||C:S1||E:S1||F:S1--
+A:S1--B:S1--B:S1||C:S1--B:S1||C:S1||D:S1--B:S1||C:S1--B:S1||C:S1||E:S1--B:S1||C:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||E:S1--A:S1||B:S1||C:S1||E:S1||F:S1--
+A:S1--B:S1--C:S1--D:S1--D:S1||E:S1--D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1--A:S1||C:S1--A:S1--A:S1||D:S1--A:S1||D:S1||E:S1--A:S1||D:S1||E:S1||F:S1--
+A:S1--B:S1--B:S1||C:S1--B:S1--B:S1||D:S1--B:S1||D:S1||E:S1--B:S1||D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1--A:S1||B:S1||D:S1||E:S1--A:S1||B:S1||D:S1||E:S1||F:S1--
+A:S1--B:S1--C:S1--C:S1||D:S1--C:S1||D:S1||E:S1--C:S1||D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1--A:S1||C:S1--A:S1||C:S1||D:S1--A:S1||C:S1||D:S1||E:S1--A:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--B:S1--B:S1||C:S1--B:S1||C:S1||D:S1--B:S1||C:S1||D:S1||E:S1--B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||E:S1--A:S1||B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1||B:S1--A:S1--A:S1||C:S1--A:S1--A:S1||D:S1--A:S1--A:S1||E:S1--A:S1--A:S1||F:S1--
+A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1--A:S1||B:S1--A:S1||B:S1||E:S1--A:S1||B:S1--A:S1||B:S1||F:S1--
+A:S1||B:S1--A:S1--A:S1||C:S1--A:S1||C:S1||D:S1--A:S1||C:S1--A:S1||C:S1||E:S1--A:S1||C:S1--A:S1||C:S1||F:S1--
+A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||E:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||F:S1--
+A:S1||B:S1--A:S1--A:S1||C:S1--A:S1--A:S1||D:S1--A:S1||D:S1||E:S1--A:S1||D:S1--A:S1||D:S1||F:S1--
+A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1--A:S1||B:S1||D:S1||E:S1--A:S1||B:S1||D:S1--A:S1||B:S1||D:S1||F:S1--
+A:S1||B:S1--A:S1--A:S1||C:S1--A:S1||C:S1||D:S1--A:S1||C:S1||D:S1||E:S1--A:S1||C:S1||D:S1--A:S1||C:S1||D:S1||F:S1--
+A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||E:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||F:S1--
+A:S1||B:S1--A:S1--A:S1||C:S1--A:S1--A:S1||D:S1--A:S1--A:S1||E:S1--A:S1||E:S1||F:S1--
+A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1--A:S1||B:S1--A:S1||B:S1||E:S1--A:S1||B:S1||E:S1||F:S1--
+A:S1||B:S1--A:S1--A:S1||C:S1--A:S1||C:S1||D:S1--A:S1||C:S1--A:S1||C:S1||E:S1--A:S1||C:S1||E:S1||F:S1--
+A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||E:S1--A:S1||B:S1||C:S1||E:S1||F:S1--
+A:S1||B:S1--A:S1--A:S1||C:S1--A:S1--A:S1||D:S1--A:S1||D:S1||E:S1--A:S1||D:S1||E:S1||F:S1--
+A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1--A:S1||B:S1||D:S1||E:S1--A:S1||B:S1||D:S1||E:S1||F:S1--
+A:S1||B:S1--A:S1--A:S1||C:S1--A:S1||C:S1||D:S1--A:S1||C:S1||D:S1||E:S1--A:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||E:S1--A:S1||B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--B:S1||C:S1--B:S1--B:S1||D:S1--B:S1--B:S1||E:S1--B:S1--B:S1||F:S1--
+A:S1--A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1--A:S1||B:S1--A:S1||B:S1||E:S1--A:S1||B:S1--A:S1||B:S1||F:S1--
+A:S1--B:S1||C:S1--B:S1||C:S1||D:S1--B:S1||C:S1--B:S1||C:S1||E:S1--B:S1||C:S1--B:S1||C:S1||F:S1--
+A:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||E:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||F:S1--
+A:S1--B:S1||C:S1--B:S1--B:S1||D:S1--B:S1||D:S1||E:S1--B:S1||D:S1--B:S1||D:S1||F:S1--
+A:S1--A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1--A:S1||B:S1||D:S1||E:S1--A:S1||B:S1||D:S1--A:S1||B:S1||D:S1||F:S1--
+A:S1--B:S1||C:S1--B:S1||C:S1||D:S1--B:S1||C:S1||D:S1||E:S1--B:S1||C:S1||D:S1--B:S1||C:S1||D:S1||F:S1--
+A:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||E:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||F:S1--
+A:S1--B:S1||C:S1--B:S1--B:S1||D:S1--B:S1--B:S1||E:S1--B:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1--A:S1||B:S1--A:S1||B:S1||E:S1--A:S1||B:S1||E:S1||F:S1--
+A:S1--B:S1||C:S1--B:S1||C:S1||D:S1--B:S1||C:S1--B:S1||C:S1||E:S1--B:S1||C:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||E:S1--A:S1||B:S1||C:S1||E:S1||F:S1--
+A:S1--B:S1||C:S1--B:S1--B:S1||D:S1--B:S1||D:S1||E:S1--B:S1||D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1--A:S1||B:S1||D:S1||E:S1--A:S1||B:S1||D:S1||E:S1||F:S1--
+A:S1--B:S1||C:S1--B:S1||C:S1||D:S1--B:S1||C:S1||D:S1||E:S1--B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||E:S1--A:S1||B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1--A:S1||B:S1--A:S1||B:S1||E:S1--A:S1||B:S1--A:S1||B:S1||F:S1--
+A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||E:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||F:S1--
+A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1--A:S1||B:S1||D:S1||E:S1--A:S1||B:S1||D:S1--A:S1||B:S1||D:S1||F:S1--
+A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||E:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||F:S1--
+A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1--A:S1||B:S1--A:S1||B:S1||E:S1--A:S1||B:S1||E:S1||F:S1--
+A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||E:S1--A:S1||B:S1||C:S1||E:S1||F:S1--
+A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1--A:S1||B:S1||D:S1||E:S1--A:S1||B:S1||D:S1||E:S1||F:S1--
+A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||E:S1--A:S1||B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--B:S1--C:S1||D:S1--C:S1--C:S1||E:S1--C:S1--C:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1--A:S1||C:S1||D:S1--A:S1||C:S1--A:S1||C:S1||E:S1--A:S1||C:S1--A:S1||C:S1||F:S1--
+A:S1--B:S1--B:S1||C:S1||D:S1--B:S1||C:S1--B:S1||C:S1||E:S1--B:S1||C:S1--B:S1||C:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||E:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||F:S1--
+A:S1--B:S1--C:S1||D:S1--C:S1||D:S1||E:S1--C:S1||D:S1--C:S1||D:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1--A:S1||C:S1||D:S1--A:S1||C:S1||D:S1||E:S1--A:S1||C:S1||D:S1--A:S1||C:S1||D:S1||F:S1--
+A:S1--B:S1--B:S1||C:S1||D:S1--B:S1||C:S1||D:S1||E:S1--B:S1||C:S1||D:S1--B:S1||C:S1||D:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||E:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||F:S1--
+A:S1--B:S1--C:S1||D:S1--C:S1--C:S1||E:S1--C:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1--A:S1||C:S1||D:S1--A:S1||C:S1--A:S1||C:S1||E:S1--A:S1||C:S1||E:S1||F:S1--
+A:S1--B:S1--B:S1||C:S1||D:S1--B:S1||C:S1--B:S1||C:S1||E:S1--B:S1||C:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||E:S1--A:S1||B:S1||C:S1||E:S1||F:S1--
+A:S1--B:S1--C:S1||D:S1--C:S1||D:S1||E:S1--C:S1||D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1--A:S1||C:S1||D:S1--A:S1||C:S1||D:S1||E:S1--A:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--B:S1--B:S1||C:S1||D:S1--B:S1||C:S1||D:S1||E:S1--B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||E:S1--A:S1||B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1||B:S1--A:S1--A:S1||C:S1||D:S1--A:S1||C:S1--A:S1||C:S1||E:S1--A:S1||C:S1--A:S1||C:S1||F:S1--
+A:S1||B:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||E:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||F:S1--
+A:S1||B:S1--A:S1--A:S1||C:S1||D:S1--A:S1||C:S1||D:S1||E:S1--A:S1||C:S1||D:S1--A:S1||C:S1||D:S1||F:S1--
+A:S1||B:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||E:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||F:S1--
+A:S1||B:S1--A:S1--A:S1||C:S1||D:S1--A:S1||C:S1--A:S1||C:S1||E:S1--A:S1||C:S1||E:S1||F:S1--
+A:S1||B:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||E:S1--A:S1||B:S1||C:S1||E:S1||F:S1--
+A:S1||B:S1--A:S1--A:S1||C:S1||D:S1--A:S1||C:S1||D:S1||E:S1--A:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1||B:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||E:S1--A:S1||B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--B:S1||C:S1||D:S1--B:S1||C:S1--B:S1||C:S1||E:S1--B:S1||C:S1--B:S1||C:S1||F:S1--
+A:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||E:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||F:S1--
+A:S1--B:S1||C:S1||D:S1--B:S1||C:S1||D:S1||E:S1--B:S1||C:S1||D:S1--B:S1||C:S1||D:S1||F:S1--
+A:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||E:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||F:S1--
+A:S1--B:S1||C:S1||D:S1--B:S1||C:S1--B:S1||C:S1||E:S1--B:S1||C:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||E:S1--A:S1||B:S1||C:S1||E:S1||F:S1--
+A:S1--B:S1||C:S1||D:S1--B:S1||C:S1||D:S1||E:S1--B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||E:S1--A:S1||B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||E:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||F:S1--
+A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||E:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||F:S1--
+A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||E:S1--A:S1||B:S1||C:S1||E:S1||F:S1--
+A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||E:S1--A:S1||B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--B:S1--C:S1--D:S1||E:S1--D:S1--D:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1--A:S1||C:S1--A:S1--A:S1||D:S1||E:S1--A:S1||D:S1--A:S1||D:S1||F:S1--
+A:S1--B:S1--B:S1||C:S1--B:S1--B:S1||D:S1||E:S1--B:S1||D:S1--B:S1||D:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1||E:S1--A:S1||B:S1||D:S1--A:S1||B:S1||D:S1||F:S1--
+A:S1--B:S1--C:S1--C:S1||D:S1||E:S1--C:S1||D:S1--C:S1||D:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1--A:S1||C:S1--A:S1||C:S1||D:S1||E:S1--A:S1||C:S1||D:S1--A:S1||C:S1||D:S1||F:S1--
+A:S1--B:S1--B:S1||C:S1--B:S1||C:S1||D:S1||E:S1--B:S1||C:S1||D:S1--B:S1||C:S1||D:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1||E:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||F:S1--
+A:S1--B:S1--C:S1--D:S1||E:S1--D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1--A:S1||C:S1--A:S1--A:S1||D:S1||E:S1--A:S1||D:S1||E:S1||F:S1--
+A:S1--B:S1--B:S1||C:S1--B:S1--B:S1||D:S1||E:S1--B:S1||D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1||E:S1--A:S1||B:S1||D:S1||E:S1||F:S1--
+A:S1--B:S1--C:S1--C:S1||D:S1||E:S1--C:S1||D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1--A:S1||C:S1--A:S1||C:S1||D:S1||E:S1--A:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--B:S1--B:S1||C:S1--B:S1||C:S1||D:S1||E:S1--B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1||E:S1--A:S1||B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1||B:S1--A:S1--A:S1||C:S1--A:S1--A:S1||D:S1||E:S1--A:S1||D:S1--A:S1||D:S1||F:S1--
+A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1||E:S1--A:S1||B:S1||D:S1--A:S1||B:S1||D:S1||F:S1--
+A:S1||B:S1--A:S1--A:S1||C:S1--A:S1||C:S1||D:S1||E:S1--A:S1||C:S1||D:S1--A:S1||C:S1||D:S1||F:S1--
+A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1||E:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||F:S1--
+A:S1||B:S1--A:S1--A:S1||C:S1--A:S1--A:S1||D:S1||E:S1--A:S1||D:S1||E:S1||F:S1--
+A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1||E:S1--A:S1||B:S1||D:S1||E:S1||F:S1--
+A:S1||B:S1--A:S1--A:S1||C:S1--A:S1||C:S1||D:S1||E:S1--A:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1||E:S1--A:S1||B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--B:S1||C:S1--B:S1--B:S1||D:S1||E:S1--B:S1||D:S1--B:S1||D:S1||F:S1--
+A:S1--A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1||E:S1--A:S1||B:S1||D:S1--A:S1||B:S1||D:S1||F:S1--
+A:S1--B:S1||C:S1--B:S1||C:S1||D:S1||E:S1--B:S1||C:S1||D:S1--B:S1||C:S1||D:S1||F:S1--
+A:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1||E:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||F:S1--
+A:S1--B:S1||C:S1--B:S1--B:S1||D:S1||E:S1--B:S1||D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1||E:S1--A:S1||B:S1||D:S1||E:S1||F:S1--
+A:S1--B:S1||C:S1--B:S1||C:S1||D:S1||E:S1--B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1||E:S1--A:S1||B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1||E:S1--A:S1||B:S1||D:S1--A:S1||B:S1||D:S1||F:S1--
+A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1||E:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||F:S1--
+A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1||E:S1--A:S1||B:S1||D:S1||E:S1||F:S1--
+A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1||E:S1--A:S1||B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--B:S1--C:S1||D:S1||E:S1--C:S1||D:S1--C:S1||D:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1--A:S1||C:S1||D:S1||E:S1--A:S1||C:S1||D:S1--A:S1||C:S1||D:S1||F:S1--
+A:S1--B:S1--B:S1||C:S1||D:S1||E:S1--B:S1||C:S1||D:S1--B:S1||C:S1||D:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1||B:S1||C:S1||D:S1||E:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||F:S1--
+A:S1--B:S1--C:S1||D:S1||E:S1--C:S1||D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1--A:S1||C:S1||D:S1||E:S1--A:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--B:S1--B:S1||C:S1||D:S1||E:S1--B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1||B:S1||C:S1||D:S1||E:S1--A:S1||B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1||B:S1--A:S1--A:S1||C:S1||D:S1||E:S1--A:S1||C:S1||D:S1--A:S1||C:S1||D:S1||F:S1--
+A:S1||B:S1--A:S1||B:S1||C:S1||D:S1||E:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||F:S1--
+A:S1||B:S1--A:S1--A:S1||C:S1||D:S1||E:S1--A:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1||B:S1--A:S1||B:S1||C:S1||D:S1||E:S1--A:S1||B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--B:S1||C:S1||D:S1||E:S1--B:S1||C:S1||D:S1--B:S1||C:S1||D:S1||F:S1--
+A:S1--A:S1||B:S1||C:S1||D:S1||E:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||F:S1--
+A:S1--B:S1||C:S1||D:S1||E:S1--B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1||C:S1||D:S1||E:S1--A:S1||B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1||B:S1||C:S1||D:S1||E:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||F:S1--
+A:S1||B:S1||C:S1||D:S1||E:S1--A:S1||B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--B:S1--C:S1--D:S1--E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1--A:S1||C:S1--A:S1--A:S1||D:S1--A:S1--A:S1||E:S1||F:S1--
+A:S1--B:S1--B:S1||C:S1--B:S1--B:S1||D:S1--B:S1--B:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1--A:S1||B:S1--A:S1||B:S1||E:S1||F:S1--
+A:S1--B:S1--C:S1--C:S1||D:S1--C:S1--C:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1--A:S1||C:S1--A:S1||C:S1||D:S1--A:S1||C:S1--A:S1||C:S1||E:S1||F:S1--
+A:S1--B:S1--B:S1||C:S1--B:S1||C:S1||D:S1--B:S1||C:S1--B:S1||C:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||E:S1||F:S1--
+A:S1--B:S1--C:S1--D:S1--D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1--A:S1||C:S1--A:S1--A:S1||D:S1--A:S1||D:S1||E:S1||F:S1--
+A:S1--B:S1--B:S1||C:S1--B:S1--B:S1||D:S1--B:S1||D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1--A:S1||B:S1||D:S1||E:S1||F:S1--
+A:S1--B:S1--C:S1--C:S1||D:S1--C:S1||D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1--A:S1||C:S1--A:S1||C:S1||D:S1--A:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--B:S1--B:S1||C:S1--B:S1||C:S1||D:S1--B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1||B:S1--A:S1--A:S1||C:S1--A:S1--A:S1||D:S1--A:S1--A:S1||E:S1||F:S1--
+A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1--A:S1||B:S1--A:S1||B:S1||E:S1||F:S1--
+A:S1||B:S1--A:S1--A:S1||C:S1--A:S1||C:S1||D:S1--A:S1||C:S1--A:S1||C:S1||E:S1||F:S1--
+A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||E:S1||F:S1--
 A:S1||B:S1--A:S1--A:S1||C:S1--A:S1--A:S1||D:S1--A:S1||D:S1||E:S1||F:S1--
-A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||E:S1||F:S1
+A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1--A:S1||B:S1||D:S1||E:S1||F:S1--
+A:S1||B:S1--A:S1--A:S1||C:S1--A:S1||C:S1||D:S1--A:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--B:S1||C:S1--B:S1--B:S1||D:S1--B:S1--B:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1--A:S1||B:S1--A:S1||B:S1||E:S1||F:S1--
+A:S1--B:S1||C:S1--B:S1||C:S1||D:S1--B:S1||C:S1--B:S1||C:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||E:S1||F:S1--
+A:S1--B:S1||C:S1--B:S1--B:S1||D:S1--B:S1||D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1--A:S1||B:S1||D:S1||E:S1||F:S1--
+A:S1--B:S1||C:S1--B:S1||C:S1||D:S1--B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1--A:S1||B:S1--A:S1||B:S1||E:S1||F:S1--
+A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||E:S1||F:S1--
+A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1--A:S1||B:S1||D:S1||E:S1||F:S1--
+A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--B:S1--C:S1||D:S1--C:S1--C:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1--A:S1||C:S1||D:S1--A:S1||C:S1--A:S1||C:S1||E:S1||F:S1--
+A:S1--B:S1--B:S1||C:S1||D:S1--B:S1||C:S1--B:S1||C:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||E:S1||F:S1--
+A:S1--B:S1--C:S1||D:S1--C:S1||D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1--A:S1||C:S1||D:S1--A:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--B:S1--B:S1||C:S1||D:S1--B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1||B:S1--A:S1--A:S1||C:S1||D:S1--A:S1||C:S1--A:S1||C:S1||E:S1||F:S1--
+A:S1||B:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||E:S1||F:S1--
+A:S1||B:S1--A:S1--A:S1||C:S1||D:S1--A:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1||B:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--B:S1||C:S1||D:S1--B:S1||C:S1--B:S1||C:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||E:S1||F:S1--
+A:S1--B:S1||C:S1||D:S1--B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||E:S1||F:S1--
+A:S1||B:S1||C:S1||D:S1--A:S1||B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--B:S1--C:S1--D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1--A:S1||C:S1--A:S1--A:S1||D:S1||E:S1||F:S1--
+A:S1--B:S1--B:S1||C:S1--B:S1--B:S1||D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1||E:S1||F:S1--
+A:S1--B:S1--C:S1--C:S1||D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1--A:S1||C:S1--A:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--B:S1--B:S1||C:S1--B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1||B:S1--A:S1--A:S1||C:S1--A:S1--A:S1||D:S1||E:S1||F:S1--
+A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1||E:S1||F:S1--
+A:S1||B:S1--A:S1--A:S1||C:S1--A:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1||B:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--B:S1||C:S1--B:S1--B:S1||D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1||E:S1||F:S1--
+A:S1--B:S1||C:S1--B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1||B:S1||C:S1--A:S1||B:S1--A:S1||B:S1||D:S1||E:S1||F:S1--
+A:S1||B:S1||C:S1--A:S1||B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--B:S1--C:S1||D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1--A:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--B:S1--B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1--A:S1||B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1||B:S1--A:S1--A:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1||B:S1--A:S1||B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1--A:S1||B:S1||C:S1||D:S1||E:S1||F:S1--
+A:S1||B:S1||C:S1||D:S1||E:S1||F:S1
 
 %
 // CHORDS
-S1, 4-19A.11 4-25.05 4-24.11 4-24.03, 8, 4;
+S1, 4-24.09 4-19A.09 4-24.01 4-25.03, 0, 4;
 
 ALL, 12-01.00, 0, 16;
 
@@ -44,20 +284,20 @@ set, 45;
 // VARIATIONS
 
 >> oA;
-mp(?_A!, "rpm1", 6);
+mp(?_A!, "rp1over3", 24);
 
 >> oB;
-mp(?_B!, "rpp2", 12);
+mp(?_B!, "rp1", 12);
 
 >> oC;
-mp(?_C!, "rpm1", 24);
+mp(?_C!, "rp1over2", 24);
 
 >> oD;
-mp(?_D!, "rpp3", 12);
+mp(?_D!, "rp2", 12);
 
 >> oE;
-mp(?_E!, "rpm1", 12);
+mp(?_E!, "rp1", 24);
 
 >> oF;
-mp(?_F!, "rpp2", 12);
+mp(?_F!, "rp3", 12);
 
